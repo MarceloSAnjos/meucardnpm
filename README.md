@@ -6,8 +6,9 @@
 </p>
 
 ## Para executar
+No seu terminal execute:
 ```sd
 npx marcelodosanjos
 ```
 
-Aprendi a fazer fuçando o repositório da [Glaucia Lemos](http://github.com/glaucia86/glaucia86)
+Aprendi a fazer fuçando o repositório da [Glaucia Lemos](http://github.com/glaucia86/glaucia86) :heart:
