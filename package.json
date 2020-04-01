@@ -1,0 +1,25 @@
+{
+  "name": "marcelodosanjos",
+  "version": "1.0.4",
+  "description": "A card from Marcelo dos Anjos",
+  "main": "index.js",
+  "scripts": {
+    "marcelodosanjos": "bin/card.js"
+  },
+  "author": {
+    "name": "Marcelo dos Anjos",
+    "email": "cellodosanjos03@gmail.com"
+  },
+  "bin": {
+    "marcelodosanjos": "bin/card.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^14.3.3"
+  },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^3.0.0",
+    "commander": "^5.0.0"
+  }
+}
